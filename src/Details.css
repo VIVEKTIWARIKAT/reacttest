@@ -1,0 +1,9 @@
+.details_style{
+    color: black;
+          background-color:bisque;
+          margin: 0px 10px;
+          min-height: 150px;
+          font-size: large;
+          border-radius: 15px;
+          padding: 10px;
+}

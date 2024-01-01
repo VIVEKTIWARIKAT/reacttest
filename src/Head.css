@@ -1,0 +1,11 @@
+.head_style{
+    color: black;
+          background-color: coral;
+          margin: 10px;
+          height: 40px;
+          font-size: xx-large;
+          font-weight: bolder;
+          text-align: center;
+          border-radius: 15px;
+          padding: 10px;
+}
